@@ -14,17 +14,17 @@ E-MAIL:			Oleg_Gladkikh@hotmail.com
 To build a career in quality control and quality assurance with committed. and dedicated people, which will help me to fully realize my potential. Excellent engineering experience focused on performance with reference, goal and schedule oriented, with high ability to multitask and self-verification.
 
 ## SPECIAL SKILLS:
-•	Professional testing method, Including Regression, modeling
-•	Certified Scrum Product Owner
-•	Project Planning and Scheduling
-•	T-SQL
-•	Visual Studio
-•	Access 2016
-•	SharePoint 2016
-•	Python
-•	C#
-•	C# test automation
-•	PowerShell
+*	Professional testing method, Including Regression, modeling
+*	Certified Scrum Product Owner
+*	Project Planning and Scheduling
+*	T-SQL
+*	Visual Studio
+*	Access 2016
+*	SharePoint 2016
+*	Python
+*	C#
+*	C# test automation
+*	PowerShell
 
 ## EMPLOYMENT HISTORY:
 * **Structure Design Engineer.**
