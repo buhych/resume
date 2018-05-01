@@ -5,7 +5,7 @@ E-MAIL:			Oleg_Gladkikh@hotmail.com
 
 ## EDUCATION:
 
- * **Masterís degree in electrical engineering.** 
+ * **Master‚Äôs degree in electrical engineering.** 
   Graduate of N.E. Bauman Moscow State      Technical University, Russia. Major in Robots and Robotic Systems - (September 1997 - June 2004)
 
  * **Software Quality Assurance Certificate Program.** Bellevue College, 2017-2018
@@ -14,25 +14,25 @@ E-MAIL:			Oleg_Gladkikh@hotmail.com
 To build a career in quality control and quality assurance with committed. and dedicated people, which will help me to fully realize my potential. Excellent engineering experience focused on performance with reference, goal and schedule oriented, with high ability to multitask and self-verification.
 
 ## SPECIAL SKILLS:
-ï	Professional testing method, Including Regression, modeling
-ï	Certified Scrum Product Owner
-ï	Project Planning and Scheduling
-ï	T-SQL
-ï	Visual Studio
-ï	Access 2016
-ï	SharePoint 2016
-ï	Python
-ï	C#
-ï	C# test automation
-ï	PowerShell
+‚Ä¢	Professional testing method, Including Regression, modeling
+‚Ä¢	Certified Scrum Product Owner
+‚Ä¢	Project Planning and Scheduling
+‚Ä¢	T-SQL
+‚Ä¢	Visual Studio
+‚Ä¢	Access 2016
+‚Ä¢	SharePoint 2016
+‚Ä¢	Python
+‚Ä¢	C#
+‚Ä¢	C# test automation
+‚Ä¢	PowerShell
 
 ## EMPLOYMENT HISTORY:
 * **Structure Design Engineer.**
-August 2017 ñ October 2017, Kaman Engineering Services. 
- * ** Projects:** K-Max. Design documentation for manufacturing process (drawings, specification etc.) 
+August 2017 ‚Äì October 2017, Kaman Engineering Services. 
+ * **Projects:** K-Max. Design documentation for manufacturing process (drawings, specification etc.) 
 
 * **Structure Design Engineer.**
-June 2013 ñ March 2017, Kaman Engineering Services
+June 2013 ‚Äì March 2017, Kaman Engineering Services
  * **Projects:** Boeing 777-9. Design primary structure. Boeing 737-700, Airbus A330-300. Design primary structure.
 
 * **Structure Design Engineer.**
@@ -44,14 +44,14 @@ September 2010 - May 2012, KAMAN GLOBAL AEROSYSTEMS, Everett, WA
  * **Projects:** 747-8.  Sect. 46, 49, Body Integration, Cargo Furnishings, Landing Gear Door. Investigation Corrective Action Request (CAR's) & Engineering Laison Request (ELR's). Create a proposal indicating the corrective action for approval.
 
 * **Structure Design Engineer.**
-February 2005 ñ March 2008, "NIK" ñ Moscow Boeing Design Center, Moscow, Russia.  
- * **Projects:** 777 Freighter Large Cargo Door. Creation of design, layouts,   models and drawings. 777 -200LR Large Cargo Door. As part of he BDC team that supported Aft Bodyís work on the 777-200LR Large Cargo Door project. 777 Water pump support installation. Creation drawings install and assemblies with use Catia V4 and PDM. Sec 47). 777 Sustain. Creation of models, drawings details, installs and assemblies with use Catia V4 and PDM. Sec 46, 47.
+February 2005 ‚Äì March 2008, "NIK" ‚Äì Moscow Boeing Design Center, Moscow, Russia.  
+ * **Projects:** 777 Freighter Large Cargo Door. Creation of design, layouts,   models and drawings. 777 -200LR Large Cargo Door. As part of he BDC team that supported Aft Body‚Äôs work on the 777-200LR Large Cargo Door project. 777 Water pump support installation. Creation drawings install and assemblies with use Catia V4 and PDM. Sec 47). 777 Sustain. Creation of models, drawings details, installs and assemblies with use Catia V4 and PDM. Sec 46, 47.
 
 * **Design Engineer.**
-March 2004 ñ February 2005	OOOîGelpikî, Moscow, Russia.
+March 2004 ‚Äì February 2005	OOO‚ÄùGelpik‚Äù, Moscow, Russia.
 Created and designed electrical power strip, mechanical components, cases for x- ray machines, in addition to control over its production. 
 
 * **Technical Designer.**
-August 2003 ñ February 2004	ìPriborî, Moscow, Russia.
+August 2003 ‚Äì February 2004	‚ÄúPribor‚Äù, Moscow, Russia.
 Helped create and designed a new type of guided missile and control over its production process (department of perspective design)
 
